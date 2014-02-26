@@ -1,7 +1,7 @@
 # Schema Management Proposal
 Hey all, this is fruition of a late night thought experiment. It's a pseudo project containing some mock classes and configurations that address a new way to manage our schemas.
 
-Please examine all the files taking care to read the README.md for commentary on the purposes/benefits of files within the directory. (There are multiple README.md's!).
+Please examine all the files taking care to read comments in both the files and the README.md's for commentary on the purposes/benefits of files within the directory. (There are multiple README.md's!).
 
 ## What this proposal attempts to address:
 ### Tiny DB
